@@ -1,6 +1,6 @@
 <?php
  /*
-  * Sieve of Eratosthenes
+  * Prime Number Generator using the Sieve of Eratosthenes
   *
   * Starting with 2, each time we find a prime number, eliminate
   * its multiples from our search criteria to speed the search up.

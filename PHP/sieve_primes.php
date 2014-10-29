@@ -12,7 +12,7 @@
   {
     $primes = array();
     
-    for($z = 0;$z <= $x;$z++)
+    for($z = 0;$z <= $x;$z++) // initialize our numbers array. The keys will be our numbers, and the value will be true if it's prime
       $primes[$z] = true;
       
     $primes[0] = false;
